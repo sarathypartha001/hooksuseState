@@ -1,0 +1,31 @@
+
+.main{
+    text-align: center;
+}
+.header-name{
+    color: brown;
+}
+.reset-btn{
+    background-color: red;
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+.reset-btn:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+.increment-btn{
+    background-color: red;
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+    padding: 10px;
+}
+.increment-btn:hover{
+    background-color: aqua;
+}
